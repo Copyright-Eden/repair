@@ -18,7 +18,6 @@ table.h5 {padding-left:50px;}
 table.h6 {padding-left:60px;}
 th {text-align:left;
     font-size:14px;}
-td.title {font-size:12px;
-          text-decoration-thickness:10px;}
-td.source {font-size:12px;}
+td {font-size:12px;}
+td.title {text-decoration-thickness:10px;}
 p.table {font-size:10px;}
